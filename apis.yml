@@ -1,7 +1,12 @@
 aid: mandt-bank-corp
-url: https://raw.githubusercontent.com/api-evangelist/mandt-bank-corp/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/mandt-bank-corp/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.mandt-bank-corp.com
+description: >-
+  M&T Bank Corporation is a regional financial services holding company that provides
+  commercial and retail banking services through M&T Bank to consumers and businesses
+  across the eastern United States.
