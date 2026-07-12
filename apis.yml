@@ -27,6 +27,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/mandt-bank-corp-domain-security.yml
   - type: Website
     url: https://www.mtb.com
   - type: AboutUs
@@ -47,6 +49,8 @@ common:
     url: https://www.mtb.com/customer-service
   - type: Locations
     url: https://www.mtb.com/branch
+  - type: Blog
+    url: https://newsroom.mtb.com/press-releases?pagetemplate=rss
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
