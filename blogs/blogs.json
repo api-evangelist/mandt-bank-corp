@@ -1,0 +1,18 @@
+{
+  "repo": "mandt-bank-corp",
+  "feeds": [
+    {
+      "source": "https://newsroom.mtb.com/press-releases?pagetemplate=rss",
+      "feed_url": "https://newsroom.mtb.com/press-releases?pagetemplate=rss",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.mtb.com/branch",
+      "error": "HTTPError"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 10
+}
