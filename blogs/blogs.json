@@ -2,20 +2,18 @@
   "repo": "mandt-bank-corp",
   "feeds": [
     {
+      "source": "https://www.mtb.com/branch",
+      "error": "HTTPError"
+    },
+    {
       "source": "https://newsroom.mtb.com/press-releases?pagetemplate=rss",
       "feed_url": "https://newsroom.mtb.com/press-releases?pagetemplate=rss",
       "title": "",
       "saved": 0,
-      "method": "feed",
-      "nature": "undetermined",
-      "nature_basis": null
-    },
-    {
-      "source": "https://www.mtb.com/branch",
-      "error": "HTTPError"
+      "method": "feed"
     }
   ],
-  "fetched": "2026-08-30T22:33:40Z",
+  "fetched": "2026-09-06T19:17:18Z",
   "post_count": 18,
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
